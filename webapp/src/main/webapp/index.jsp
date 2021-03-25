@@ -1,2 +1,2 @@
-<h1> This is my first project only.   </h1>
-<h2> Dont get too excited .. !!  </h2>
+<h1> This is our first project only.   </h1>
+<h2> Don't get too excited .. !!  </h2>
